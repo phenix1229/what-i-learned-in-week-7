@@ -56,5 +56,7 @@ function oddOrEven(arr) {
   }
 }
 ```
+### Slice
 
+`str.slice(start, stop)` - gives items from a string or array beginning with the starting index (if given, 0 if not) and ending one index before the stop index (if given, last index if not). It can start from the end of the string or array if the starting index is a negative number.
 ---
