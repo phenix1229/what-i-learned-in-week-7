@@ -36,11 +36,11 @@ function makeGreater(){
     return newStr;
 }
 ```
+String theory exercise: https://github.com/ci-wdi-900/string-theory
 
 ---
 
-## Miscellaneous
-### Map
+## Map
 
 A map is a one to one transformation of values. In other words, each value is 'mapped' to another value.
 
@@ -56,7 +56,21 @@ function oddOrEven(arr) {
   }
 }
 ```
+Mapmaker exercise: https://github.com/ci-wdi-900/mapmaker-mapmaker
+
+---
+
+## Troubleshooting someone else' code
+
+CBBT exercise: https://github.com/ci-wdi-900/cripples-bastards-and-broken-things 
+
+P I T A 
+
+---
+
+## Miscellaneous
 ### Slice
 
 `str.slice(start, stop)` - gives items from a string or array beginning with the starting index (if given, 0 if not) and ending one index before the stop index (if given, last index if not). It can start from the end of the string or array if the starting index is a negative number.
----
+
+*ps: `slice` don't `splice`*
